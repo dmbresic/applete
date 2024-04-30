@@ -1,0 +1,28 @@
+#banner{
+    background-image: url('../img/banner.jpg');
+    color: rgb(252, 211, 78);
+    padding: 10px;
+}
+
+#visual{
+    text-align: center;
+    margin: auto;
+}
+
+#about{
+    text-align: center;
+}
+
+#visual{
+    align-content: center;
+}
+
+#form-sub{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+img{
+    width: 286px;
+    height: 129px;
+}
